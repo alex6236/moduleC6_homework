@@ -1,5 +1,3 @@
-const icon1 = document.getElementById("icon_1");
-const icon2 = document.getElementById("icon_2");
 const button = document.getElementById("btn");
 
 const arrowSvg1 = `<svg 
